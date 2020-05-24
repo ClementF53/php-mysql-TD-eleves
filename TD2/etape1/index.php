@@ -18,12 +18,12 @@
             $nom= $_POST['nom'];	
             $prenom= _____________
             $statut= _____________
-            $date= _____________
+            $date= 
             //afficher les données ici dans des div 
-            echo "<div>_____________<div>";
-            _____________
-            _____________
-            _____________
+            echo "<div>$nom<div>";
+            echo "<div>$prenom<div>";
+            echo "<div>$statut<div>";
+            echo "<div>$date<div>";
         ?>
     </body>
   
